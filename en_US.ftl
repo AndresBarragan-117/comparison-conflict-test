@@ -23,7 +23,7 @@ timeline-picker-person = Guests
 timeline-toggle-walkin = Walk-in
 
 timeline-picker-end = End
-
+ 
 timeline-toggle-reservation = Reservation
 
 timeline-alert-lateforcheckin = late for check-in
