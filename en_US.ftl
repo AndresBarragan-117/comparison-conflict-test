@@ -29,30 +29,34 @@ timeline-toggle-reservation = Reservation
 timeline-alert-lateforcheckin = late for check-in
 
 timeline-toggle-checked-in = Checked-in
-# Key eliminada en una rama
-timeline-placeholder-search = Search
-# Contenido diferente para el mismo idioma
 
-# Nombre de key diferente
-different-settings-column-table-name = { CENTER() ->
+timeline-placeholder-search = Search
+
+settings-label-address = Address
+
+settings-column-table-name = { CENTER() ->
   [restaurant] Table name
   [hotel] Room name
   *[other] Court name
 }
-# Conflicto por sensibilidad a mayúsculas y minúsculas (case sensitivity)
-SettinGs-butTon-ADD-table = { CENTER() ->
+
+settings-button-add-table = { CENTER() ->
   [restaurant] Add table
   [hotel] Add room
   *[other] Add court
 }
-# Conflicto por sensibilidad a mayúsculas y minúsculas (case sensitivity)
+
 settings-label-table-name = { CENTER() ->
-  [restaurant] TablE NAME
+  [restaurant] Table name
   [hotel] Room name
   *[other] Court name
 }
-# Contenido vacío vs contenido definido
-settings-label-table-name-tooltip-text = 
+
+settings-label-table-name-tooltip-text = { CENTER() ->
+  [restaurant] Unique table name that will be displayed on the Timeline, in the booking history and in the activity
+  [hotel] A unique room name that will be displayed on the Timeline, in the booking history and in recent changes.
+  *[other] A unique court name that will be displayed on the Timeline, in the booking history and in recent changes.
+}
 
 settings-label-capacity-min = Capacity min.
 
