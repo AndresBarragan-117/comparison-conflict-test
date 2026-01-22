@@ -1,8 +1,11 @@
 timeline-picker-start = Inicio
 
+
 timeline-placeholder-memo = Agregar nota... para mejorar esto
 
 timeline-placeholder-last-name = Apellidos, nombre completo andres barragan
+
+
 
 timeline-toggle-all = Todos ustedes contra mi
 
@@ -10,13 +13,18 @@ timeline-picker-date = Fecha de nacimiento
 
 timeline-placeholder-first-name = Nombres
 
-timeline-picker-event = Evento
 
-timeline-toggle-upcoming = Próxima
+
+
+other-var = new var
 
 timeline-alert-lateforcheckout = tarde para el check-out, llego tardeeeeeeeee
 
 timeline-placeholder-email = Correo electrónico
+
+timeline-picker-event = Evento
+
+timeline-toggle-upcoming = Próxima
 
 timeline-picker-person = Personas
 
