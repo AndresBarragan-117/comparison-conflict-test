@@ -14,7 +14,7 @@ timeline-picker-event = Evento
 
 timeline-toggle-upcoming = Próxima
 
-timeline-alert-lateforcheckout = tarde para el check-out
+timeline-alert-lateforcheckout = tarde para el check-out, llego tardeeeeeeeee
 
 timeline-placeholder-email = Correo electrónico
 
