@@ -1,12 +1,12 @@
 timeline-picker-start = Inicio
 
-timeline-placeholder-memo = Agregar nota...
+timeline-placeholder-memo = Agregar nota... para mejorar esto
 
-timeline-placeholder-last-name = Apellidos
+timeline-placeholder-last-name = Apellidos, nombre completo andres barragan
 
-timeline-toggle-all = Todos
+timeline-toggle-all = Todos ustedes contra mi
 
-timeline-picker-date = Fecha
+timeline-picker-date = Fecha de nacimiento
 
 timeline-placeholder-first-name = Nombres
 
