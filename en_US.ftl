@@ -30,25 +30,14 @@ timeline-alert-lateforcheckin = late for check-in
 
 timeline-toggle-checked-in = Checked-in
 
-timeline-placeholder-search = Search
-
-settings-label-address = Address
-
 settings-column-table-name = { CENTER() ->
   [restaurant] Table name
-  [hotel] Room name
   *[other] Court name
 }
 
-settings-button-add-table = { CENTER() ->
-  [restaurant] Add table
-  [hotel] Add room
-  *[other] Add court
-}
+settings-button-add-table = 
 
 settings-label-table-name = { CENTER() ->
-  [restaurant] Table name
-  [hotel] Room name
   *[other] Court name
 }
 
