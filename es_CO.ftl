@@ -1,12 +1,14 @@
 timeline-picker-start = Inicio
 
-timeline-placeholder-last-name = Apellidos testing
+timeline-placeholder-memo = Agregar nota...
 
-timeline-toggle-all-testing = Todos
+timeline-placeholder-last-name = Apellidos
 
-timeline-picker-datE = FeCha
+timeline-toggle-all = Todos
 
-timeline-placeholder-first-name = 
+timeline-picker-date = Fecha
+
+timeline-placeholder-first-name = Nombres
 
 timeline-picker-event = Evento
 
